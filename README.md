@@ -1,5 +1,5 @@
 # UAP-pytorch
-A simple Pytorch implementation of Universal Adversarival Pertubation proposed in [[1]](https://arxiv.org/pdf/1610.08401.pdf)      
+A simple Pytorch implementation of Universal Adversarial Perturbation proposed in [[1]](https://arxiv.org/pdf/1610.08401.pdf)      
 The code is adapted from [LTS4](https://github.com/LTS4/universal) and [ferjad](https://github.com/ferjad/Universal_Adversarial_Perturbation_pytorch). Test passed on python2.7 and Pytorch0.4 .
 ## Usage 
 ### Dataset Preparation
